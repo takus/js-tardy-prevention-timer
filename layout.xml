@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Widget>
+    <Component name="widget">
+    <Bitmap name="initial-bg"/>
+    <Bitmap name="editbg"/>
+    <Bitmap name="back"  x="85" y="50"/>
+    <Bitmap name="enter"  x="-95" y="50"/>
+    <Text name="enterFunc1" x="-64" y="56" rgba="ffffffff" size="18" str=":設定画面へ" />
+    <Text name="enterFunc2" x="-64" y="56" rgba="ffffffff" size="18" str=":SET" />
+    <Text name="timer" x="-60" y="25" rgba="ffffffff" size="50"/>
+    
+    <Text name="timerHour" x="-90" y="-15" rgba="ffffffff" size="25"/>
+    <Text name="Under1" x="-60" y="30" rgba="ffffffff" size="50" str="__"/>
+    <Text name="Apart" x="-60" y="-15" rgba="ffffffff" size="25" str=":"/>
+    <Text name="timerMinute" x="-50" y="-15" rgba="ffffffff" size="25"/>
+    <Text name="Under2" x="25" y="30" rgba="ffffffff" size="50" str="__"/>
+    <Text name="until" x="-5" y="-15" rgba="ffffffff" size="20" str="まであと"/>
+    <Text name="time" x="-110" y="38" rgba="ffffffff" size="50"/>
+    
+    <Bitmap name="end" y="2"/>
+    <Text name="blinktext" x="-105" y="38" rgba="ffffffff" size="50" str="時間です。" />
+    </Component>
+</Widget>

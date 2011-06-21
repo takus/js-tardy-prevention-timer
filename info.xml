@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info>
+    <name>遅刻防止タイマー</name>
+    <width>280</width>
+    <height>165</height>
+    <profile>
+        <spec>AC2.0</spec>
+    </profile>
+    <description>設定時刻までの残り時間をカウントダウンします。</description>
+    <provider>takus</provider>
+</Info>
